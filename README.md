@@ -50,8 +50,8 @@ Atualmente aprofundando **Java**, **JavaScript**, **Python** e modelagem de dado
 ### Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joaopaulo105&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo105&layout=compact&hide_border=true&langs_count=6&theme=github_dark&locale=pt-br" alt="Linguagens mais usadas">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopaulo105&theme=github_dark" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopaulo105&theme=github_dark" alt="Linguagens mais usadas">
 </p>
 
 ---
